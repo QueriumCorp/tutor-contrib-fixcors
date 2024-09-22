@@ -1,0 +1,2 @@
+recursive-include tutorfixcors/patches *
+recursive-include tutorfixcors/templates *
